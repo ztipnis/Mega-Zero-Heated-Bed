@@ -33,7 +33,7 @@ See [this video](https://www.youtube.com/watch?v=EQJLe1VbFTg) for better instruc
  
 
 ### Step 1
-Print the Bed Spacers from above. Quality is fairly unimportant given that they'll melt pretty quickly and need to be replaced soon.
+Print the [Bed Spacers](https://github.com/ztipnis/Mega-Zero-Heated-Bed/raw/master/Bed_Spacer.stl) from above. Quality is fairly unimportant given that they'll melt pretty quickly and need to be replaced soon.
 Optionally print [this wing nut knob adaptor](https://www.thingiverse.com/thing:3105178)
 
 ### Step 2
