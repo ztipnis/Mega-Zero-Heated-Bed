@@ -48,12 +48,14 @@ With the bed dry fitted, tighten the bed spacer nuts
 Remove the bed, then reinstall by stacking the bed on top of a metal M3 washer on top of the bed springs on top of another M3 washer on top of the bed spacer. It's tricky, but I took it one corner at a time, lifting each corner only high enough to pass the nuts and spring onto the post, meanwhile trying to keep the other 3 corners from lifting too much
 While firmly pressing down on each corner, affix the wing nuts and optionally the wing nut knob adaptor
 Adjust the Z endstop height now that the bed is significantly higher
+![Image of Spacer Install](https://raw.githubusercontent.com/ztipnis/Mega-Zero-Heated-Bed/master/Spacer%20Install.jpg)
 
 ### Step 4
 Assemble AC side of the power supply. It's pretty self explanitory if you know about electronics and theres too much possible variation to cover that in this guide.
 Cut the cable provided by Anycubic on the side closer to the printer.
 Strip back the printer cable, then strip back the center wire keeping the outer and inner wires separate
-Solder red and black wires as extensions. Red is positive, the center wire is positive. Use heatshrink tubing to keep the inner and outer leads separate
+Solder red and black wires as extensions. Red is positive, the center wire is positive. Use heatshrink tubing to keep the inner and outer leads separate.
+![Image of DC Wire Extensions](https://raw.githubusercontent.com/ztipnis/Mega-Zero-Heated-Bed/master/DC%20Plug%20Install.jpg)
 Attach the extensions to DC side of the PSU
 Attach another set of red and black extensions to the DC side of the PSU, attach them to the mosfet on the other side
 
